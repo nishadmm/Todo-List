@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 3rem;
+}
+
+.btn {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: bold;
+  background-color: red;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
